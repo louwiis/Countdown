@@ -1,5 +1,4 @@
 # Countdown Timer
----
 
 ## Description
 
