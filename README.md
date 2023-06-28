@@ -23,3 +23,9 @@ To run this project, you need to run the following command:
 ```bash
 npm start
 ```
+
+## Image
+
+There is only one image for this project:
+
+![Countdown Timer](./assets/images/timer.jpeg)
